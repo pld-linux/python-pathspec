@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Biblioteka narzędzioawa do dopasowywania wzorców ścieżek 
 Name:		python-pathspec
 # keep 0.9.x here for python2 support
 Version:	0.9.0
-Release:	4
+Release:	5
 License:	MPL v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pathspec/
