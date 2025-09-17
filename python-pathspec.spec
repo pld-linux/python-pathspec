@@ -2,7 +2,7 @@
 # Conditional build:
 %bcond_without	tests	# unit tests
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module
 
 Summary:	Utility library for gitignore style pattern matching of file paths
 Summary(pl.UTF-8):	Biblioteka narzędzioawa do dopasowywania wzorców ścieżek plików w stylu gitignore
